@@ -1,0 +1,2 @@
+GET http://localhost:1275/queryAll
+content-type: application/json
